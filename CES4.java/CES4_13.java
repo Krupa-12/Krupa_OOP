@@ -16,7 +16,7 @@ class Rectangle extends Shape {
         return d1 * d2;
     }
 }
-public class Main {
+public class CES4_13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter base of Triangle: ");
